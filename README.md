@@ -45,4 +45,11 @@ Responsiveness: Flexible units (rem, em, %) are combined with Media Queries to e
 1. HTML5 (Semantic Structure), 
 2. CSS3 (Custom Layout, Media Queries, CSS Variables), 
 3. Vanilla JavaScript (Mobile Menu Toggle, Intersection Observer for fade-in animations), 
-4. Lucide Icons (For professional interface elements)
+4. Lucide Icons (For professional interface elements).
+
+# OUTPUT
+### LIGHT THEME
+<img width="1920" height="835" alt="Image" src="https://github.com/user-attachments/assets/5d9a75f6-0006-47c0-a621-29d758f960e6" />
+
+### DARK THEME
+<img width="1920" height="867" alt="Image" src="https://github.com/user-attachments/assets/2c573e2d-79f3-4540-b476-ebffd662cb69" />
