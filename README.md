@@ -17,7 +17,7 @@ Task 1: Static Portfolio Website (CODTECH IT SOLUTIONS Internship)
 
 This repository contains the source code for a professional, fully responsive static portfolio website. This project was developed as Task 1 of the CODTECH IT SOLUTIONS Software Developer Internship program, demonstrating core front-end expertise and adherence to sophisticated design principles, including the Golden Ratio ($\phi$).
 
-## Project Overview
+## Project Overview:
 The website serves as a technical portfolio showcasing my skills and providing placeholders for the subsequent internship projects. The primary objective was to ensure the design achieved visual harmony and full responsiveness using only pure HTML, CSS, and minimal JavaScript.
 
 ## Key Features:
@@ -28,7 +28,7 @@ Adaptive Design: Mobile-First Responsiveness guaranteed via extensive use of CSS
 ## Interactivity: 
 Features a functional mobile navigation toggle implemented using vanilla JavaScript.
 
-## Technical Implementation
+## Technical Implementation:
 The site's technical foundation is centered on pure CSS3 to achieve advanced layout and proportional scaling without relying on external frameworks.
 
 1. The Golden Ratio ($\phi \approx 1.618$) Implementation
@@ -41,15 +41,15 @@ CSS Variables: Used extensively to manage the specific color palette, typography
 Semantic Structure: HTML5 provides a clean, accessible, and semantically rich structure.
 Responsiveness: Flexible units (rem, em, %) are combined with Media Queries to ensure proportional layout adaptation across mobile, tablet, and desktop views.
 
-## Technologies Used
+## Technologies Used:
 1. HTML5 (Semantic Structure), 
 2. CSS3 (Custom Layout, Media Queries, CSS Variables), 
-3. Vanilla JavaScript (Mobile Menu Toggle, Intersection Observer for fade-in animations), 
+3. JavaScript (Mobile Menu Toggle, Intersection Observer for fade-in animations), 
 4. Lucide Icons (For professional interface elements).
 
 # OUTPUT
-### LIGHT THEME
+### LIGHT THEME:
 <img width="1920" height="835" alt="Image" src="https://github.com/user-attachments/assets/5d9a75f6-0006-47c0-a621-29d758f960e6" />
 
-### DARK THEME
+### DARK THEME:
 <img width="1920" height="867" alt="Image" src="https://github.com/user-attachments/assets/2c573e2d-79f3-4540-b476-ebffd662cb69" />
