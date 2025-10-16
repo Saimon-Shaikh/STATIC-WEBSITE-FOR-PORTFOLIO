@@ -42,7 +42,7 @@ Semantic Structure: HTML5 provides a clean, accessible, and semantically rich st
 Responsiveness: Flexible units (rem, em, %) are combined with Media Queries to ensure proportional layout adaptation across mobile, tablet, and desktop views.
 
 ## Technologies Used
-HTML5 (Semantic Structure)
-CSS3 (Custom Layout, Media Queries, CSS Variables)
-Vanilla JavaScript (Mobile Menu Toggle, Intersection Observer for fade-in animations)
-Lucide Icons (For professional interface elements)
+1. HTML5 (Semantic Structure), 
+2. CSS3 (Custom Layout, Media Queries, CSS Variables), 
+3. Vanilla JavaScript (Mobile Menu Toggle, Intersection Observer for fade-in animations), 
+4. Lucide Icons (For professional interface elements)
