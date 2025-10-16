@@ -49,7 +49,8 @@ Responsiveness: Flexible units (rem, em, %) are combined with Media Queries to e
 
 # OUTPUT
 ### LIGHT THEME:
-<img width="1920" height="835" alt="Image" src="https://github.com/user-attachments/assets/5d9a75f6-0006-47c0-a621-29d758f960e6" /> <img width="1920" height="990" alt="Image" src="https://github.com/user-attachments/assets/de52ba9f-845d-44bc-9a70-1c2d58a92245" />
+<img width="1920" height="835" alt="Image" src="https://github.com/user-attachments/assets/5d9a75f6-0006-47c0-a621-29d758f960e6" /> 
+<img width="1920" height="990" alt="Image" src="https://github.com/user-attachments/assets/de52ba9f-845d-44bc-9a70-1c2d58a92245" />
 <img width="1920" height="990" alt="Image" src="https://github.com/user-attachments/assets/03325953-b47f-4f37-8b29-a3787eaca264" />
 <img width="1920" height="974" alt="Image" src="https://github.com/user-attachments/assets/bfe447a1-8795-49f8-ae9d-455244ce32f1" />
 
