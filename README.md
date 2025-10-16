@@ -49,10 +49,12 @@ Responsiveness: Flexible units (rem, em, %) are combined with Media Queries to e
 
 # OUTPUT
 ### LIGHT THEME:
-<img width="1920" height="835" alt="Image" src="https://github.com/user-attachments/assets/5d9a75f6-0006-47c0-a621-29d758f960e6" />
-<img width="1920" height="990" alt="Image" src="https://github.com/user-attachments/assets/de52ba9f-845d-44bc-9a70-1c2d58a92245" />
+<img width="1920" height="835" alt="Image" src="https://github.com/user-attachments/assets/5d9a75f6-0006-47c0-a621-29d758f960e6" /> <img width="1920" height="990" alt="Image" src="https://github.com/user-attachments/assets/de52ba9f-845d-44bc-9a70-1c2d58a92245" />
 <img width="1920" height="990" alt="Image" src="https://github.com/user-attachments/assets/03325953-b47f-4f37-8b29-a3787eaca264" />
 <img width="1920" height="974" alt="Image" src="https://github.com/user-attachments/assets/bfe447a1-8795-49f8-ae9d-455244ce32f1" />
 
 ### DARK THEME:
 <img width="1920" height="867" alt="Image" src="https://github.com/user-attachments/assets/2c573e2d-79f3-4540-b476-ebffd662cb69" />
+<img width="1920" height="974" alt="Image" src="https://github.com/user-attachments/assets/08fb422d-8740-4fce-a29b-3747744af48e" />
+<img width="1920" height="982" alt="Image" src="https://github.com/user-attachments/assets/7c0d4d61-ea0c-4fda-b055-09401c89eb78" />
+<img width="1920" height="987" alt="Image" src="https://github.com/user-attachments/assets/f33a7843-3e92-4e84-89ec-1b5284dd24f4" />
