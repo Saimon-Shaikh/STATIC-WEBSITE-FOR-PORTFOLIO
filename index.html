@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>STATIC WEBSITE FOR PORTFOLIO</title>
+    <!-- Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@500;700&display=swap"
+        rel="stylesheet">
+    <!-- Lucide Icons CDN -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Navbar -->
+    <header class="navbar">
+        <div class="nav-logo">
+            <span class="logo-text">Saimon Shaikh</span>
+        </div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#hero">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <button class="nav-toggle" aria-label="Open menu">
+                <i data-lucide="menu"></i>
+            </button>
+            <button class="theme-switch" aria-label="Toggle theme">
+                <i data-lucide="moon"></i>
+            </button>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="hero" class="hero-section fade-in">
+            <div class="container hero-container">
+                <div class="hero-content">
+                    <h1 class="hero-title">Hello, I'm <span class="primary-gradient">Saimon Shaikh</span></h1>
+                    <p class="hero-subtitle">Web Developer & Designer</p>
+                    <p class="hero-desc">I craft visually stunning and highly functional websites, focusing on clean
+                        code, modern design, and user experience.</p>
+                    <a href="#projects" class="cta-btn glow">View My Work</a>
+                </div>
+                <div class="hero-img-bg">
+                    <img src="Professional_student.jpg" alt="Profile"
+                        class="hero-img">
+                    <span class="circle-one"></span>
+                    <span class="circle-two"></span>
+                </div>
+            </div>
+        </section>
+
+        <!-- About & Skills Section -->
+        <section id="about-skills" class="about-skills-section fade-in delay-1">
+            <div class="container about-skills-container">
+                <section id="about" class="about-section card">
+                    <h2 class="section-title"><span class="primary-gradient-text">About Me</span></h2>
+                    <p>
+                        I'm Saimon, a passionate developer building beautiful and functional digital products. With
+                        expertise in front-end and back-end technologies, I create web solutions that delight users and
+                        solve real-world problems. My mission is to combine aesthetics with code for seamless
+                        experiences.
+                    </p>
+                    <ul class="about-list">
+                        <li><i data-lucide="check-circle"></i> 5+ Years Experience</li>
+                        <li><i data-lucide="check-circle"></i> 20+ Completed Projects</li>
+                        <li><i data-lucide="check-circle"></i> UI/UX Optimized</li>
+                    </ul>
+                </section>
+                <section id="skills" class="skills-section card">
+                    <h2 class="section-title"><span class="primary-gradient-text">Skills</span></h2>
+                    <ul class="skills-list">
+                        <li title="HTML5"><i data-lucide="code"></i><span>HTML5</span></li>
+                        <li title="CSS3"><i data-lucide="palette"></i><span>CSS3</span></li>
+                        <li title="JavaScript"><i data-lucide="file-js"></i><span>JavaScript</span></li>
+                        <li title="Python"><i data-lucide="python"></i><span>Python</span></li>
+                        <li title="Python"><i data-lucide="python"></i><span>Java</span></li>
+                        <li title="React"><i data-lucide="atom"></i><span>React</span></li>
+                        <li title="APIs"><i data-lucide="cloud"></i><span>REST APIs</span></li>
+                        <li title="Git"><i data-lucide="git-branch"></i><span>Git</span></li>
+                    </ul>
+                </section>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="projects-section fade-in delay-2">
+            <div class="container">
+                <h2 class="section-title"><span class="primary-gradient-text">Projects</span></h2>
+                <div class="projects-grid">
+                    <div class="project-card hover-animate">
+                        <div class="project-img-wrapper">
+                            <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&q=80"
+                                alt="Portfolio Website">
+                        </div>
+                        <div class="project-content">
+                            <h3>Portfolio Website</h3>
+                            <p>Modern, responsive site to showcase my work and skills. Built with HTML, CSS, and
+                                JavaScript.</p>
+                            <a href="#" class="view-code-btn glow">View Code</a>
+                        </div>
+                    </div>
+                    <div class="project-card hover-animate">
+                        <div class="project-img-wrapper">
+                            <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=400&q=80"
+                                alt="Weather App">
+                        </div>
+                        <div class="project-content">
+                            <h3>Weather App</h3>
+                            <p>Real-time weather dashboard using REST APIs and modern JS. Fast and mobile-friendly.</p>
+                            <a href="#" class="view-code-btn glow">View Code</a>
+                        </div>
+                    </div>
+                    <div class="project-card hover-animate">
+                        <div class="project-img-wrapper">
+                            <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=400&q=80"
+                                alt="Task Manager">
+                        </div>
+                        <div class="project-content">
+                            <h3>Task Manager</h3>
+                            <p>Organize tasks with a clean UI. Features CRUD operations and persistent storage.</p>
+                            <a href="#" class="view-code-btn glow">View Code</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Attractive Contact Section & Footer -->
+    <footer id="contact" class="footer-section fade-in delay-3">
+        <div class="container">
+            <div class="footer-contact-attractive">
+                <h2 class="section-title"><span class="primary-gradient-text">Let's Connect</span></h2>
+                <p class="footer-lead">
+                    <i data-lucide="mail" class="footer-mail"></i>
+                    <span>
+                        I'm open to collaboration, freelance work, or just a friendly conversation.<br>
+                        <span class="footer-highlight">Drop me a message or connect with me on socials!</span>
+                    </span>
+                </p>
+                <form class="contact-form" autocomplete="off">
+                    <div class="form-row">
+                        <input type="text" name="name" placeholder="Your Name" autocomplete="off" required>
+                        <input type="email" name="email" placeholder="Your Email" autocomplete="off" required>
+                    </div>
+                    <textarea name="message" rows="3" placeholder="Your message..." required></textarea>
+                    <button type="submit" class="form-btn glow">
+                        <i data-lucide="send"></i> Send Message
+                    </button>
+                </form>
+                <div class="social-links-attractive">
+                    <a title="GitHub" href="[Your GitHub Profile]" target="_blank"><i data-lucide="github" class="icon-social"></i></a>
+                    <a title="LinkedIn" href="[Your LinkedIn Profile]" target="_blank"><i data-lucide="linkedin" class="icon-social"></i></a>
+                    <a href="mailto:saimonshaikh@email.com" aria-label="Email"><i data-lucide="mail"></i></a>
+                </div>
+            </div>
+            <p class="footer-copy">&copy; 2025 Saimon Shaikh. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
