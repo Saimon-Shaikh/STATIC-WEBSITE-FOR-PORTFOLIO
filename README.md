@@ -13,7 +13,7 @@
 *MENTOR NAME*: NEELA SANTOSH
 
 # TASK/PROJECT DESCRIPTION 
-Task 1: Static Portfolio Website (CODTECH IT SOLUTIONS Internship)
+## Task 1: Static Portfolio Website (CODTECH IT SOLUTIONS Internship)
 
 This repository contains the source code for a professional, fully responsive static portfolio website. This project was developed as Task 1 of the CODTECH IT SOLUTIONS Software Developer Internship program, demonstrating core front-end expertise and adherence to sophisticated design principles, including the Golden Ratio ($\phi$).
 
